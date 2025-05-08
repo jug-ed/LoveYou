@@ -4,8 +4,6 @@ const fillScreen = document.getElementById('fillScreen');
 const newBlock = document.getElementById('newBlock');
 const popup = document.getElementById('popup');
 const popup_text = document.getElementById('popup-text');
-const main_text = document.getElementById('main-text');
-const memories = document.getElementById('memories');
 
 let clickCount = 0;
 
